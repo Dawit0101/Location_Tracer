@@ -2,6 +2,10 @@
 
 This Python script allows you to trace the location of an IP address using MaxMind's GeoLite2 database.
 
+## Credits
+
+This location tracer was created by **Dawit (Kirubel)**.
+
 ## Prerequisites
 
 Before you can run this code, make sure you have the following prerequisites installed:
@@ -21,4 +25,6 @@ Before you can run this code, make sure you have the following prerequisites ins
 Once you have the prerequisites installed, you can run the `location_tracer.py` script to trace the location of an IP address using GeoLite2. Here's how you can use it:
 
 ```shell
-python location_tracer.py 
+python location_tracer.py
+
+
